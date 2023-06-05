@@ -1,0 +1,13 @@
+.title {
+    color: black;
+    font-weight: bold;
+    font-size: 100px;
+    margin: 50px 50px 50px 50px;  
+}
+
+.body {
+    color: black;
+    font-weight: bold;
+    font-size: 200px;
+    margin: 50px 50px 50px 50px;
+}
